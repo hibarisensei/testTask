@@ -1,0 +1,22 @@
+PODS:
+  - Gloss (2.0.1)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+
+DEPENDENCIES:
+  - Gloss
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Gloss
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Gloss: 1e8743f8de1fbe14a97f220ff901cba91ae5f8f8
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+
+PODFILE CHECKSUM: f9c86901f2e2fb99361ef012c4e2cb666897a6d9
+
+COCOAPODS: 1.5.3
